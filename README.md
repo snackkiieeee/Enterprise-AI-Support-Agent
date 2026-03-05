@@ -26,7 +26,7 @@ Data Validation: Pydantic
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/Enterprise-AI-Support-Agent.git](https://github.com/yourusername/Enterprise-AI-Support-Agent.git)
+git clone [https://github.com/snackkiieeee/Enterprise-AI-Support-Agent.git](https://github.com/snackkiieeee/Enterprise-AI-Support-Agent.git)
 cd Enterprise-AI-Support-Agent
 
 
